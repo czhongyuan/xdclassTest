@@ -64,5 +64,7 @@ public class a {
             roots.add(number);
         }
         System.out.println(roots.values());
+
+         System.out.println(roots.values());
     }
 }
